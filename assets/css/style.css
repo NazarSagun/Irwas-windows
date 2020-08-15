@@ -6,6 +6,10 @@ html {
   font-size: 10px;
 }
 
+.margin {
+  margin-top: 30px;
+}
+
 body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
@@ -1177,6 +1181,10 @@ textarea:focus {
 @media (max-width: 991px) {
   .section_header h2 {
     font-size: 2.8rem;
+  }
+
+  .margin {
+    margin-top: 38px;
   }
 
   .header {
